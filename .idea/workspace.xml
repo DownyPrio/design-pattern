@@ -2,9 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd0ca1fd-d882-4755-8d94-cc1e12cf55e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Builder/BuilderDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Factory/AbstractFactoryModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/junitgenerator-prj-settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CreatingPattern/Builder/BuilderDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StructuralPattern/Adapter/ClassAdapterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StructuralPattern/Adapter/ObjectAdapterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StructuralPattern/Bridge/BridgeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StructuralPattern/Proxy/ProxyTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Builder/BuilderDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Factory/AbstractFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CreatingPattern/Factory/AbstractFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Factory/AbstractFactoryModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CreatingPattern/Factory/AbstractFactoryModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ProtoType/RealizeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CreatingPattern/ProtoType/RealizeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Singleton/SingletonEager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CreatingPattern/Singleton/SingletonEager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Singleton/SingletonLazy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CreatingPattern/Singleton/SingletonLazy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Factory/AbstractFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Factory/Factory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Factory/Factory1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Factory/Factory2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Factory/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Factory/Product1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Factory/Product2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ProtoType/Realize.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ProtoType/RealizeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Singleton/Eager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Singleton/President.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Singleton/SingletonEager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Singleton/SingletonLazy.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,16 +42,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Singleton/SingletonLazy.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/CreatingPattern/Singleton/SingletonLazy.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="675">
               <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
@@ -37,7 +51,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ProtoType/RealizeTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/CreatingPattern/ProtoType/RealizeTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="200">
               <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
@@ -46,60 +60,103 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Factory/AbstractFactory.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/CreatingPattern/Factory/AbstractFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-600">
-              <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+            <state relative-caret-position="150">
+              <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Factory/AbstractFactoryModel.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/CreatingPattern/Factory/AbstractFactoryModel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+            <state relative-caret-position="800">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/CreatingPattern/Builder/BuilderDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="12" selection-start-line="3" selection-end-line="12" />
               <folding>
-                <element signature="e#163#164#0" expanded="true" />
-                <element signature="e#184#185#0" expanded="true" />
-                <element signature="e#271#272#0" expanded="true" />
-                <element signature="e#296#297#0" expanded="true" />
-                <element signature="e#408#409#0" expanded="true" />
-                <element signature="e#429#430#0" expanded="true" />
-                <element signature="e#508#509#0" expanded="true" />
-                <element signature="e#529#530#0" expanded="true" />
-                <element signature="e#725#726#0" expanded="true" />
-                <element signature="e#758#759#0" expanded="true" />
-                <element signature="e#788#789#0" expanded="true" />
-                <element signature="e#821#822#0" expanded="true" />
-                <element signature="e#895#896#0" expanded="true" />
-                <element signature="e#929#930#0" expanded="true" />
-                <element signature="e#959#960#0" expanded="true" />
-                <element signature="e#993#994#0" expanded="true" />
+                <element signature="e#588#589#0" expanded="true" />
+                <element signature="e#614#615#0" expanded="true" />
+                <element signature="e#1355#1356#0" expanded="true" />
+                <element signature="e#1392#1393#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/StructuralPattern/Proxy/ProxyTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+              <folding>
+                <element signature="e#173#174#0" expanded="true" />
+                <element signature="e#194#195#0" expanded="true" />
+                <element signature="e#395#396#0" expanded="true" />
+                <element signature="e#447#448#0" expanded="true" />
+                <element signature="e#523#524#0" expanded="true" />
+                <element signature="e#544#545#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/StructuralPattern/Adapter/ClassAdapterTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+              <folding>
+                <element signature="e#218#219#0" expanded="true" />
+                <element signature="e#239#240#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/StructuralPattern/Adapter/ObjectAdapterTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+              <folding>
+                <element signature="e#200#201#0" expanded="true" />
+                <element signature="e#358#359#0" expanded="true" />
+                <element signature="e#399#400#0" expanded="true" />
+                <element signature="e#460#461#0" expanded="true" />
+                <element signature="e#484#485#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Builder/BuilderDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/StructuralPattern/Bridge/BridgeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
-              <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+            <state relative-caret-position="-113">
+              <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
               <folding>
-                <element signature="e#185#186#0" expanded="true" />
-                <element signature="e#218#219#0" expanded="true" />
-                <element signature="e#259#260#0" expanded="true" />
-                <element signature="e#293#294#0" expanded="true" />
-                <element signature="e#333#334#0" expanded="true" />
-                <element signature="e#367#368#0" expanded="true" />
+                <element signature="e#263#264#0" expanded="true" />
+                <element signature="e#308#309#0" expanded="true" />
+                <element signature="e#417#418#0" expanded="true" />
+                <element signature="e#442#443#0" expanded="true" />
+                <element signature="e#562#563#0" expanded="true" />
+                <element signature="e#581#582#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Singleton/SingletonEager.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/CreatingPattern/Singleton/SingletonEager.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
               <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
@@ -114,6 +171,7 @@
       <list>
         <option value="FxmlFile" />
         <option value="Interface" />
+        <option value="Python Script" />
         <option value="Class" />
       </list>
     </option>
@@ -132,10 +190,15 @@
         <option value="$PROJECT_DIR$/src/main/java/Factory/AbstractFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/Factory/AbstractFactoryModel.java" />
         <option value="$PROJECT_DIR$/src/main/java/Builder/BuilderDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CreatingPattern/Builder/BuilderDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/StructuralPattern/Proxy/ProxyTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/StructuralPattern/Adapter/ClassAdapterTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/StructuralPattern/Adapter/ObjectAdapterTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/StructuralPattern/Bridge/BridgeTest.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
@@ -143,11 +206,12 @@
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="false" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -179,7 +243,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Builder" type="462c0819:PsiDirectoryNode" />
+              <item name="StructuralPattern" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="design_pattern" type="b2602c69:ProjectViewProjectNode" />
@@ -203,6 +267,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.templateLanguages.PyTemplateLanguageModulesConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -216,13 +281,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AbstractFactory">
-    <configuration name="AbstractFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Factory.AbstractFactory" />
+  <component name="RunManager" selected="Application.BridgeTest">
+    <configuration name="BridgeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StructuralPattern.Bridge.BridgeTest" />
       <module name="design_pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Factory.*" />
+          <option name="PATTERN" value="StructuralPattern.Bridge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -230,12 +295,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RealizeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProtoType.RealizeTest" />
+    <configuration name="BuilderDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Builder.BuilderDemo" />
       <module name="design_pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ProtoType.*" />
+          <option name="PATTERN" value="Builder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -243,12 +308,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingletonEager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Singleton.SingletonEager" />
+    <configuration name="ClassAdapterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StructuralPattern.Adapter.ClassAdapterTest" />
       <module name="design_pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Singleton.*" />
+          <option name="PATTERN" value="StructuralPattern.Adapter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -256,12 +321,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingletonLazy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Singleton.SingletonLazy" />
+    <configuration name="ObjectAdapterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StructuralPattern.Adapter.ObjectAdapterTest" />
       <module name="design_pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Singleton.*" />
+          <option name="PATTERN" value="StructuralPattern.Adapter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProxyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StructuralPattern.Proxy.ProxyTest" />
+      <module name="design_pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StructuralPattern.Proxy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -271,10 +349,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AbstractFactory" />
-        <item itemvalue="Application.RealizeTest" />
-        <item itemvalue="Application.SingletonEager" />
-        <item itemvalue="Application.SingletonLazy" />
+        <item itemvalue="Application.BridgeTest" />
+        <item itemvalue="Application.ObjectAdapterTest" />
+        <item itemvalue="Application.ClassAdapterTest" />
+        <item itemvalue="Application.ProxyTest" />
+        <item itemvalue="Application.BuilderDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -289,18 +368,19 @@
       <option name="presentableId" value="Default" />
       <updated>1577435914517</updated>
       <workItem from="1577435916151" duration="5384000" />
-      <workItem from="1577671274757" duration="4156000" />
+      <workItem from="1577671274757" duration="4172000" />
+      <workItem from="1577775132504" duration="6641000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9540000" />
+    <option name="totallyTimeSpent" value="16197000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -309,12 +389,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.39016393" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28360656" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.45409837" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.30163935" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.48688525" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3295082" />
@@ -337,6 +417,7 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/Singleton/res.fxml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Builder.java" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
@@ -344,77 +425,112 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Singleton/SingletonLazy.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/CreatingPattern/Singleton/SingletonLazy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="675">
           <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProtoType/RealizeTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/CreatingPattern/ProtoType/RealizeTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Singleton/SingletonEager.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/CreatingPattern/Factory/AbstractFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CreatingPattern/Factory/AbstractFactoryModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CreatingPattern/Singleton/SingletonEager.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Factory/AbstractFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/CreatingPattern/Builder/BuilderDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-600">
-          <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Builder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="20" selection-start-column="20" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Factory/AbstractFactoryModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        <state relative-caret-position="300">
+          <caret line="12" selection-start-line="3" selection-end-line="12" />
           <folding>
-            <element signature="e#163#164#0" expanded="true" />
-            <element signature="e#184#185#0" expanded="true" />
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#296#297#0" expanded="true" />
-            <element signature="e#408#409#0" expanded="true" />
-            <element signature="e#429#430#0" expanded="true" />
-            <element signature="e#508#509#0" expanded="true" />
-            <element signature="e#529#530#0" expanded="true" />
-            <element signature="e#725#726#0" expanded="true" />
-            <element signature="e#758#759#0" expanded="true" />
-            <element signature="e#788#789#0" expanded="true" />
-            <element signature="e#821#822#0" expanded="true" />
-            <element signature="e#895#896#0" expanded="true" />
-            <element signature="e#929#930#0" expanded="true" />
-            <element signature="e#959#960#0" expanded="true" />
-            <element signature="e#993#994#0" expanded="true" />
+            <element signature="e#588#589#0" expanded="true" />
+            <element signature="e#614#615#0" expanded="true" />
+            <element signature="e#1355#1356#0" expanded="true" />
+            <element signature="e#1392#1393#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Builder/BuilderDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/StructuralPattern/Proxy/ProxyTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+        <state relative-caret-position="250">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
           <folding>
-            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#523#524#0" expanded="true" />
+            <element signature="e#544#545#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StructuralPattern/Adapter/AdapterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StructuralPattern/Adapter/ClassAdapterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding>
             <element signature="e#218#219#0" expanded="true" />
-            <element signature="e#259#260#0" expanded="true" />
-            <element signature="e#293#294#0" expanded="true" />
-            <element signature="e#333#334#0" expanded="true" />
-            <element signature="e#367#368#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StructuralPattern/Adapter/ObjectAdapterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+          <folding>
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#399#400#0" expanded="true" />
+            <element signature="e#460#461#0" expanded="true" />
+            <element signature="e#484#485#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StructuralPattern/Bridge/BridgeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-113">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <folding>
+            <element signature="e#263#264#0" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+            <element signature="e#442#443#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#581#582#0" expanded="true" />
           </folding>
         </state>
       </provider>
