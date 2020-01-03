@@ -2,32 +2,69 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd0ca1fd-d882-4755-8d94-cc1e12cf55e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/junitgenerator-prj-settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CreatingPattern/Builder/BuilderDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StructuralPattern/Adapter/ClassAdapterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StructuralPattern/Adapter/ObjectAdapterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StructuralPattern/Bridge/BridgeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StructuralPattern/Proxy/ProxyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BehavioralPattern/ChainOfResponsibility/ChainOfResponsibilityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BehavioralPattern/Command/CommandExtTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BehavioralPattern/Command/CommandTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BehavioralPattern/Mediator/MediatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BehavioralPattern/Observer/ObserverTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BehavioralPattern/State/ShareStateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BehavioralPattern/State/StateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BehavioralPattern/Strategy/StrategyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BehavioralPattern/Template/TemplateExtTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StructuralPattern/Composite/CompositeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StructuralPattern/Decorator/DecoratorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StructuralPattern/Facade/FacadeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StructuralPattern/FlyWeight/FlyWeightTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/design_pattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/design_pattern.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Builder/BuilderDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Factory/AbstractFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CreatingPattern/Factory/AbstractFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Factory/AbstractFactoryModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CreatingPattern/Factory/AbstractFactoryModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ProtoType/RealizeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CreatingPattern/ProtoType/RealizeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Singleton/SingletonEager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CreatingPattern/Singleton/SingletonEager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Singleton/SingletonLazy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CreatingPattern/Singleton/SingletonLazy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Factory/AbstractFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Factory/Factory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Factory/Factory1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Factory/Factory2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Factory/Product.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Factory/Product1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Factory/Product2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProtoType/Realize.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProtoType/RealizeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Singleton/Eager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Singleton/President.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Singleton/SingletonEager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Singleton/SingletonLazy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CreatingPattern/Builder/AbstractBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CreatingPattern/Builder/AbstractBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CreatingPattern/Builder/BuilderA.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CreatingPattern/Builder/BuilderA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CreatingPattern/Builder/BuilderB.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CreatingPattern/Builder/BuilderB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CreatingPattern/Builder/BuilderDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CreatingPattern/Builder/BuilderDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CreatingPattern/Builder/Driver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CreatingPattern/Builder/Driver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CreatingPattern/Builder/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CreatingPattern/Builder/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CreatingPattern/Factory/AbstractFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CreatingPattern/Factory/AbstractFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CreatingPattern/Factory/AbstractFactoryModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CreatingPattern/Factory/AbstractFactoryModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CreatingPattern/Factory/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CreatingPattern/Factory/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CreatingPattern/Factory/Cattle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CreatingPattern/Factory/Cattle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CreatingPattern/Factory/Factory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CreatingPattern/Factory/Factory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CreatingPattern/Factory/Factory1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CreatingPattern/Factory/Factory1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CreatingPattern/Factory/Factory2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CreatingPattern/Factory/Factory2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CreatingPattern/Factory/FactoryM1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CreatingPattern/Factory/FactoryM1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CreatingPattern/Factory/FactoryM2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CreatingPattern/Factory/FactoryM2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CreatingPattern/Factory/FactoryModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CreatingPattern/Factory/FactoryModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CreatingPattern/Factory/Flower.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CreatingPattern/Factory/Flower.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CreatingPattern/Factory/Grass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CreatingPattern/Factory/Grass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CreatingPattern/Factory/Horse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CreatingPattern/Factory/Horse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CreatingPattern/Factory/Plant.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CreatingPattern/Factory/Plant.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CreatingPattern/Factory/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CreatingPattern/Factory/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CreatingPattern/Factory/Product1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CreatingPattern/Factory/Product1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CreatingPattern/Factory/Product2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CreatingPattern/Factory/Product2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CreatingPattern/ProtoType/Realize.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CreatingPattern/ProtoType/Realize.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CreatingPattern/ProtoType/RealizeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CreatingPattern/ProtoType/RealizeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CreatingPattern/Singleton/Eager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CreatingPattern/Singleton/Eager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CreatingPattern/Singleton/President.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CreatingPattern/Singleton/President.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CreatingPattern/Singleton/SingletonEager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CreatingPattern/Singleton/SingletonEager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CreatingPattern/Singleton/SingletonLazy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CreatingPattern/Singleton/SingletonLazy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/StructuralPattern/Adapter/Adaptee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/StructuralPattern/Adapter/Adaptee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/StructuralPattern/Adapter/AdapteeOb.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/StructuralPattern/Adapter/AdapteeOb.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/StructuralPattern/Adapter/Adapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/StructuralPattern/Adapter/Adapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/StructuralPattern/Adapter/AdapterOb.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/StructuralPattern/Adapter/AdapterOb.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/StructuralPattern/Adapter/ClassAdapterTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/StructuralPattern/Adapter/ClassAdapterTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/StructuralPattern/Adapter/ObjectAdapterTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/StructuralPattern/Adapter/ObjectAdapterTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/StructuralPattern/Adapter/Target.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/StructuralPattern/Adapter/Target.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/StructuralPattern/Adapter/TargetOb.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/StructuralPattern/Adapter/TargetOb.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/StructuralPattern/Bridge/Abstraction.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/StructuralPattern/Bridge/Abstraction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/StructuralPattern/Bridge/BridgeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/StructuralPattern/Bridge/BridgeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/StructuralPattern/Bridge/ConcreteAbstract.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/StructuralPattern/Bridge/ConcreteAbstract.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/StructuralPattern/Bridge/Implemention.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/StructuralPattern/Bridge/Implemention.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/StructuralPattern/Bridge/Implementor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/StructuralPattern/Bridge/Implementor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/StructuralPattern/Proxy/AbsSubject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/StructuralPattern/Proxy/AbsSubject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/StructuralPattern/Proxy/Proxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/StructuralPattern/Proxy/Proxy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/StructuralPattern/Proxy/ProxyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/StructuralPattern/Proxy/ProxyTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/StructuralPattern/Proxy/RealSubject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/StructuralPattern/Proxy/RealSubject.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,124 +79,200 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/CreatingPattern/Singleton/SingletonLazy.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/StructuralPattern/Composite/CompositeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/CreatingPattern/ProtoType/RealizeTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/CreatingPattern/Factory/AbstractFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/CreatingPattern/Factory/AbstractFactoryModel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="800">
-              <caret line="40" selection-start-line="40" selection-end-line="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/CreatingPattern/Builder/BuilderDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="12" selection-start-line="3" selection-end-line="12" />
+            <state relative-caret-position="275">
+              <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
               <folding>
-                <element signature="e#588#589#0" expanded="true" />
-                <element signature="e#614#615#0" expanded="true" />
-                <element signature="e#1355#1356#0" expanded="true" />
-                <element signature="e#1392#1393#0" expanded="true" />
+                <element signature="e#306#307#0" expanded="true" />
+                <element signature="e#332#333#0" expanded="true" />
+                <element signature="e#456#457#0" expanded="true" />
+                <element signature="e#482#483#0" expanded="true" />
+                <element signature="e#512#513#0" expanded="true" />
+                <element signature="e#533#534#0" expanded="true" />
+                <element signature="e#742#743#0" expanded="true" />
+                <element signature="e#765#766#0" expanded="true" />
+                <element signature="e#810#811#0" expanded="true" />
+                <element signature="e#842#843#0" expanded="true" />
+                <element signature="e#882#883#0" expanded="true" />
+                <element signature="e#912#913#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/StructuralPattern/Proxy/ProxyTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/BehavioralPattern/Command/CommandExtTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+            <state relative-caret-position="317">
+              <caret line="46" column="30" lean-forward="true" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
               <folding>
-                <element signature="e#173#174#0" expanded="true" />
-                <element signature="e#194#195#0" expanded="true" />
-                <element signature="e#395#396#0" expanded="true" />
-                <element signature="e#447#448#0" expanded="true" />
-                <element signature="e#523#524#0" expanded="true" />
-                <element signature="e#544#545#0" expanded="true" />
+                <element signature="e#229#230#0" expanded="true" />
+                <element signature="e#261#262#0" expanded="true" />
+                <element signature="e#444#445#0" expanded="true" />
+                <element signature="e#488#489#0" expanded="true" />
+                <element signature="e#647#648#0" expanded="true" />
+                <element signature="e#670#671#0" expanded="true" />
+                <element signature="e#723#724#0" expanded="true" />
+                <element signature="e#746#747#0" expanded="true" />
+                <element signature="e#798#799#0" expanded="true" />
+                <element signature="e#830#831#0" expanded="true" />
+                <element signature="e#219#220#0" expanded="true" />
+                <element signature="e#240#241#0" expanded="true" />
+                <element signature="e#293#294#0" expanded="true" />
+                <element signature="e#314#315#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/StructuralPattern/Adapter/ClassAdapterTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/BehavioralPattern/ChainOfResponsibility/ChainOfResponsibilityTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+            <state relative-caret-position="382">
+              <caret line="25" column="25" lean-forward="true" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
               <folding>
-                <element signature="e#218#219#0" expanded="true" />
-                <element signature="e#239#240#0" expanded="true" />
+                <element signature="e#181#182#0" expanded="true" />
+                <element signature="e#212#213#0" expanded="true" />
+                <element signature="e#243#244#0" expanded="true" />
+                <element signature="e#269#270#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/StructuralPattern/Adapter/ObjectAdapterTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/BehavioralPattern/State/StateTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+            <state relative-caret-position="-200">
+              <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
               <folding>
-                <element signature="e#200#201#0" expanded="true" />
-                <element signature="e#358#359#0" expanded="true" />
-                <element signature="e#399#400#0" expanded="true" />
-                <element signature="e#460#461#0" expanded="true" />
-                <element signature="e#484#485#0" expanded="true" />
+                <element signature="e#162#163#0" expanded="true" />
+                <element signature="e#211#212#0" expanded="true" />
+                <element signature="e#255#256#0" expanded="true" />
+                <element signature="e#288#289#0" expanded="true" />
+                <element signature="e#318#319#0" expanded="true" />
+                <element signature="e#346#347#0" expanded="true" />
+                <element signature="e#373#374#0" expanded="true" />
+                <element signature="e#391#392#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/BehavioralPattern/State/ShareStateTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="900">
+              <caret line="48" column="33" lean-forward="true" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
+              <folding>
+                <element signature="e#215#235#0" expanded="true" />
+                <element signature="e#535#536#0" expanded="true" />
+                <element signature="e#578#579#0" expanded="true" />
+                <element signature="e#626#627#0" expanded="true" />
+                <element signature="e#658#659#0" expanded="true" />
+                <element signature="e#606#607#0" expanded="true" />
+                <element signature="e#631#632#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/BehavioralPattern/Observer/ObserverTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="915">
+              <caret line="44" column="6" selection-start-line="44" selection-start-column="6" selection-end-line="44" selection-end-column="6" />
+              <folding>
+                <element signature="e#197#207#0" expanded="true" />
+                <element signature="e#222#223#0" expanded="true" />
+                <element signature="e#246#247#0" expanded="true" />
+                <element signature="e#331#332#0" expanded="true" />
+                <element signature="e#364#365#0" expanded="true" />
+                <element signature="e#715#716#0" expanded="true" />
+                <element signature="e#740#741#0" expanded="true" />
+                <element signature="e#837#838#0" expanded="true" />
+                <element signature="e#873#874#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/StructuralPattern/Bridge/BridgeTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/BehavioralPattern/Mediator/MediatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-113">
-              <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+            <state relative-caret-position="85">
+              <caret line="29" column="40" lean-forward="true" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
               <folding>
-                <element signature="e#263#264#0" expanded="true" />
-                <element signature="e#308#309#0" expanded="true" />
-                <element signature="e#417#418#0" expanded="true" />
-                <element signature="e#442#443#0" expanded="true" />
-                <element signature="e#562#563#0" expanded="true" />
-                <element signature="e#581#582#0" expanded="true" />
+                <element signature="e#319#330#0" expanded="true" />
+                <element signature="e#727#728#0" expanded="true" />
+                <element signature="e#766#767#0" expanded="true" />
+                <element signature="e#1012#1013#0" expanded="true" />
+                <element signature="e#1041#1042#0" expanded="true" />
+                <element signature="e#1239#1240#0" expanded="true" />
+                <element signature="e#1290#1291#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/CreatingPattern/Singleton/SingletonEager.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/BehavioralPattern/Template/TemplateTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+            <state relative-caret-position="300">
+              <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+              <folding>
+                <element signature="e#238#239#0" expanded="true" />
+                <element signature="e#259#260#0" expanded="true" />
+                <element signature="e#447#448#0" expanded="true" />
+                <element signature="e#468#469#0" expanded="true" />
+                <element signature="e#526#527#0" expanded="true" />
+                <element signature="e#551#552#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/BehavioralPattern/Command/CommandTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+              <folding>
+                <element signature="e#226#227#0" expanded="true" />
+                <element signature="e#265#266#0" expanded="true" />
+                <element signature="e#314#315#0" expanded="true" />
+                <element signature="e#353#354#0" expanded="true" />
+                <element signature="e#531#532#0" expanded="true" />
+                <element signature="e#568#569#0" expanded="true" />
+                <element signature="e#607#608#0" expanded="true" />
+                <element signature="e#644#645#0" expanded="true" />
+                <element signature="e#304#305#0" expanded="true" />
+                <element signature="e#325#326#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/BehavioralPattern/Strategy/StrategyTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+              <folding>
+                <element signature="e#187#188#0" expanded="true" />
+                <element signature="e#208#209#0" expanded="true" />
+                <element signature="e#309#310#0" expanded="true" />
+                <element signature="e#330#331#0" expanded="true" />
+                <element signature="e#579#580#0" expanded="true" />
+                <element signature="e#619#620#0" expanded="true" />
+                <element signature="e#454#455#0" expanded="true" />
+                <element signature="e#493#494#0" expanded="true" />
+                <element signature="e#529#530#0" expanded="true" />
+                <element signature="e#559#560#0" expanded="true" />
+                <element signature="e#643#644#0" expanded="true" />
+                <element signature="e#671#672#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -195,6 +308,20 @@
         <option value="$PROJECT_DIR$/src/main/java/StructuralPattern/Adapter/ClassAdapterTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/StructuralPattern/Adapter/ObjectAdapterTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/StructuralPattern/Bridge/BridgeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/StructuralPattern/Decorator/DecoratorTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/StructuralPattern/Facade/FacadeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/StructuralPattern/FlyWeight/FlyWeightTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/StructuralPattern/Composite/CompositeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BehavioralPattern/Template/TemplateTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BehavioralPattern/Template/TemplateExtTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BehavioralPattern/Strategy/StrategyTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BehavioralPattern/Command/CommandTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BehavioralPattern/Command/CommandExtTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BehavioralPattern/ChainOfResponsibility/ChainOfResponsibilityTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BehavioralPattern/State/StateTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BehavioralPattern/State/ShareStateTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BehavioralPattern/Observer/ObserverTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BehavioralPattern/Mediator/MediatorTest.java" />
       </list>
     </option>
   </component>
@@ -211,7 +338,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -243,6 +369,22 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="BehavioralPattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design_pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design_pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="CreatingPattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design_pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design_pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="StructuralPattern" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -255,6 +397,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -265,9 +408,9 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.templateLanguages.PyTemplateLanguageModulesConfigurable" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -281,13 +424,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BridgeTest">
-    <configuration name="BridgeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StructuralPattern.Bridge.BridgeTest" />
+  <component name="RunManager" selected="Application.MediatorTest">
+    <configuration name="ChainOfResponsibilityTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BehavioralPattern.ChainOfResponsibility.ChainOfResponsibilityTest" />
       <module name="design_pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StructuralPattern.Bridge.*" />
+          <option name="PATTERN" value="BehavioralPattern.ChainOfResponsibility.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -295,12 +438,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BuilderDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Builder.BuilderDemo" />
+    <configuration name="MediatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BehavioralPattern.Mediator.MediatorTest" />
       <module name="design_pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Builder.*" />
+          <option name="PATTERN" value="BehavioralPattern.Mediator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -308,12 +451,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassAdapterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StructuralPattern.Adapter.ClassAdapterTest" />
+    <configuration name="ObserverTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BehavioralPattern.Observer.ObserverTest" />
       <module name="design_pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StructuralPattern.Adapter.*" />
+          <option name="PATTERN" value="BehavioralPattern.Observer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -321,12 +464,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectAdapterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StructuralPattern.Adapter.ObjectAdapterTest" />
+    <configuration name="ShareStateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BehavioralPattern.State.ShareStateTest" />
       <module name="design_pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StructuralPattern.Adapter.*" />
+          <option name="PATTERN" value="BehavioralPattern.State.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -334,12 +477,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProxyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StructuralPattern.Proxy.ProxyTest" />
+    <configuration name="StateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BehavioralPattern.State.StateTest" />
       <module name="design_pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StructuralPattern.Proxy.*" />
+          <option name="PATTERN" value="BehavioralPattern.State.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -347,13 +490,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.ChainOfResponsibilityTest" />
+      <item itemvalue="Application.StateTest" />
+      <item itemvalue="Application.ShareStateTest" />
+      <item itemvalue="Application.ObserverTest" />
+      <item itemvalue="Application.MediatorTest" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BridgeTest" />
-        <item itemvalue="Application.ObjectAdapterTest" />
-        <item itemvalue="Application.ClassAdapterTest" />
-        <item itemvalue="Application.ProxyTest" />
-        <item itemvalue="Application.BuilderDemo" />
+        <item itemvalue="Application.MediatorTest" />
+        <item itemvalue="Application.ObserverTest" />
+        <item itemvalue="Application.ShareStateTest" />
+        <item itemvalue="Application.StateTest" />
+        <item itemvalue="Application.ChainOfResponsibilityTest" />
       </list>
     </recent_temporary>
   </component>
@@ -369,18 +519,20 @@
       <updated>1577435914517</updated>
       <workItem from="1577435916151" duration="5384000" />
       <workItem from="1577671274757" duration="4172000" />
-      <workItem from="1577775132504" duration="6641000" />
+      <workItem from="1577775132504" duration="8671000" />
+      <workItem from="1577930272332" duration="8157000" />
+      <workItem from="1578016069332" duration="15207000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16197000" />
+    <option name="totallyTimeSpent" value="41591000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25113463" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -389,15 +541,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28360656" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28688523" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.45409837" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.48688525" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.2704918" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3295082" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.27868852" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -425,6 +577,7 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StructuralPattern/Adapter/AdapterTest.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/CreatingPattern/Singleton/SingletonLazy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="675">
@@ -453,23 +606,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/CreatingPattern/Singleton/SingletonEager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/CreatingPattern/Builder/BuilderDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="12" selection-start-line="3" selection-end-line="12" />
-          <folding>
-            <element signature="e#588#589#0" expanded="true" />
-            <element signature="e#614#615#0" expanded="true" />
-            <element signature="e#1355#1356#0" expanded="true" />
-            <element signature="e#1392#1393#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -477,31 +617,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-          <folding>
-            <element signature="e#173#174#0" expanded="true" />
-            <element signature="e#194#195#0" expanded="true" />
-            <element signature="e#395#396#0" expanded="true" />
-            <element signature="e#447#448#0" expanded="true" />
-            <element signature="e#523#524#0" expanded="true" />
-            <element signature="e#544#545#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/StructuralPattern/Adapter/AdapterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/StructuralPattern/Adapter/ClassAdapterTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        <state relative-caret-position="225">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
           <folding>
-            <element signature="e#218#219#0" expanded="true" />
-            <element signature="e#239#240#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -509,28 +634,252 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/StructuralPattern/Adapter/ObjectAdapterTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
-          <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
           <folding>
-            <element signature="e#200#201#0" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-            <element signature="e#399#400#0" expanded="true" />
-            <element signature="e#460#461#0" expanded="true" />
-            <element signature="e#484#485#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StructuralPattern/Facade/FacadeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StructuralPattern/FlyWeight/FlyWeightTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1075">
+          <caret line="56" column="41" selection-start-line="56" selection-start-column="41" selection-end-line="56" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/StructuralPattern/Bridge/BridgeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-113">
-          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        <state relative-caret-position="275">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
           <folding>
-            <element signature="e#263#264#0" expanded="true" />
-            <element signature="e#308#309#0" expanded="true" />
-            <element signature="e#417#418#0" expanded="true" />
-            <element signature="e#442#443#0" expanded="true" />
-            <element signature="e#562#563#0" expanded="true" />
-            <element signature="e#581#582#0" expanded="true" />
+            <element signature="e#426#427#0" expanded="true" />
+            <element signature="e#472#473#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CreatingPattern/Singleton/SingletonEager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StructuralPattern/Decorator/DecoratorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BehavioralPattern/Template/TemplateExtTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="39" column="39" lean-forward="true" selection-start-line="39" selection-start-column="39" selection-end-line="39" selection-end-column="39" />
+          <folding>
+            <element signature="e#392#393#0" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
+            <element signature="e#490#491#0" expanded="true" />
+            <element signature="e#511#512#0" expanded="true" />
+            <element signature="e#564#565#0" expanded="true" />
+            <element signature="e#612#613#0" expanded="true" />
+            <element signature="e#638#639#0" expanded="true" />
+            <element signature="e#686#687#0" expanded="true" />
+            <element signature="e#711#712#0" expanded="true" />
+            <element signature="e#757#758#0" expanded="true" />
+            <element signature="e#782#783#0" expanded="true" />
+            <element signature="e#808#809#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BehavioralPattern/Strategy/StrategyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <element signature="e#187#188#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#579#580#0" expanded="true" />
+            <element signature="e#619#620#0" expanded="true" />
+            <element signature="e#454#455#0" expanded="true" />
+            <element signature="e#493#494#0" expanded="true" />
+            <element signature="e#529#530#0" expanded="true" />
+            <element signature="e#559#560#0" expanded="true" />
+            <element signature="e#643#644#0" expanded="true" />
+            <element signature="e#671#672#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BehavioralPattern/Command/CommandTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <folding>
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#265#266#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#353#354#0" expanded="true" />
+            <element signature="e#531#532#0" expanded="true" />
+            <element signature="e#568#569#0" expanded="true" />
+            <element signature="e#607#608#0" expanded="true" />
+            <element signature="e#644#645#0" expanded="true" />
+            <element signature="e#304#305#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StructuralPattern/Composite/CompositeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+          <folding>
+            <element signature="e#306#307#0" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+            <element signature="e#512#513#0" expanded="true" />
+            <element signature="e#533#534#0" expanded="true" />
+            <element signature="e#742#743#0" expanded="true" />
+            <element signature="e#765#766#0" expanded="true" />
+            <element signature="e#810#811#0" expanded="true" />
+            <element signature="e#842#843#0" expanded="true" />
+            <element signature="e#882#883#0" expanded="true" />
+            <element signature="e#912#913#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BehavioralPattern/Template/TemplateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+          <folding>
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#468#469#0" expanded="true" />
+            <element signature="e#526#527#0" expanded="true" />
+            <element signature="e#551#552#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BehavioralPattern/Command/CommandExtTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="46" column="30" lean-forward="true" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
+          <folding>
+            <element signature="e#229#230#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+            <element signature="e#488#489#0" expanded="true" />
+            <element signature="e#647#648#0" expanded="true" />
+            <element signature="e#670#671#0" expanded="true" />
+            <element signature="e#723#724#0" expanded="true" />
+            <element signature="e#746#747#0" expanded="true" />
+            <element signature="e#798#799#0" expanded="true" />
+            <element signature="e#830#831#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BehavioralPattern/ChainOfResponsibility/ChainOfResponsibilityTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="25" column="25" lean-forward="true" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+          <folding>
+            <element signature="e#181#182#0" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#269#270#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BehavioralPattern/State/StateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-200">
+          <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+          <folding>
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+            <element signature="e#288#289#0" expanded="true" />
+            <element signature="e#318#319#0" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BehavioralPattern/State/ShareStateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="48" column="33" lean-forward="true" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
+          <folding>
+            <element signature="e#215#235#0" expanded="true" />
+            <element signature="e#535#536#0" expanded="true" />
+            <element signature="e#578#579#0" expanded="true" />
+            <element signature="e#626#627#0" expanded="true" />
+            <element signature="e#658#659#0" expanded="true" />
+            <element signature="e#606#607#0" expanded="true" />
+            <element signature="e#631#632#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BehavioralPattern/Observer/ObserverTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="915">
+          <caret line="44" column="6" selection-start-line="44" selection-start-column="6" selection-end-line="44" selection-end-column="6" />
+          <folding>
+            <element signature="e#197#207#0" expanded="true" />
+            <element signature="e#222#223#0" expanded="true" />
+            <element signature="e#246#247#0" expanded="true" />
+            <element signature="e#331#332#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+            <element signature="e#715#716#0" expanded="true" />
+            <element signature="e#740#741#0" expanded="true" />
+            <element signature="e#837#838#0" expanded="true" />
+            <element signature="e#873#874#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BehavioralPattern/Mediator/MediatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="29" column="40" lean-forward="true" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
+          <folding>
+            <element signature="e#319#330#0" expanded="true" />
+            <element signature="e#727#728#0" expanded="true" />
+            <element signature="e#766#767#0" expanded="true" />
+            <element signature="e#1012#1013#0" expanded="true" />
+            <element signature="e#1041#1042#0" expanded="true" />
+            <element signature="e#1239#1240#0" expanded="true" />
+            <element signature="e#1290#1291#0" expanded="true" />
           </folding>
         </state>
       </provider>
